@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LOGAPRAKASH_UG2</Machine>
+    <WindowsUser>loga</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>86bd8f24-d181-4aa4-8e33-80a4a13ab06a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\agenda_maker_windows_v01.exe">
+      <PackagePath>agenda_maker_windows_v01.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\agenda_maker_windows_v01.xr.xml">
+      <PackagePath>agenda_maker_windows_v01.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\add_agenda.xbf">
+      <PackagePath>add_agenda.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\loga\documents\visual studio 2015\Projects\agenda_maker_windows_v01\agenda_maker_windows_v01\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
